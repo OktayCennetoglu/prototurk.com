@@ -35,7 +35,7 @@
         },
         {
             "description": "h3 başlığına 2px genişliğinde kesik mavi çizgi şeklinde kenarlık oluşturur.",
-            "code": "h3 { border: 2px dashed orange; }"
+            "code": "h3 { border: 2px dashed blue; }"
         }
     ],
     "related": [
